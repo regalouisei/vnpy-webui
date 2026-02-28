@@ -1,0 +1,7 @@
+
+{
+  "log.active": true,
+  "log.level": "INFO",
+  "log.console": true,
+  "log.file": false
+}
